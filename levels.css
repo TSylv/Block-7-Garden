@@ -140,8 +140,8 @@
 
 #level-5 {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: 5, 1fr;
+  grid-template-rows: 3, 1fr; 
 }
 
 #level-5 .carrots {
